@@ -1,6 +1,5 @@
 # Microservices Sample
 
-[![Build Status](https://travis-ci.org/mudigal-technologies/microservices-sample.svg?branch=master)](https://travis-ci.org/mudigal-technologies/microservices-sample)
 [![Docker Repository on Quay](https://quay.io/repository/microservices-sample/api-gateway/status "Docker Repository on Quay")](https://quay.io/repository/microservices-sample/api-gateway)
 [![Docker Repository on Quay](https://quay.io/repository/microservices-sample/service-one/status "Docker Repository on Quay")](https://quay.io/repository/microservices-sample/service-one)
 [![Docker Repository on Quay](https://quay.io/repository/microservices-sample/service-two/status "Docker Repository on Quay")](https://quay.io/repository/microservices-sample/service-two)
@@ -16,9 +15,6 @@ Many organizations nowadays are driving the technology migrations and one of the
 
 This microservices-sample project demonstrates how multiple services run independently leveraging on the best microservices patterns to enable scale, performance and resilience.
 
-<p align="center">
-  <a href="https://www.youtube.com/watch?v=AYcsnuIOW2M" target="_blank" rel="noopener noreferrer"><img src="https://img.youtube.com/vi/AYcsnuIOW2M/0.jpg" alt="https://www.youtube.com/watch?v=AYcsnuIOW2M"/></a>
-</p>
 
 ### Use case
 
